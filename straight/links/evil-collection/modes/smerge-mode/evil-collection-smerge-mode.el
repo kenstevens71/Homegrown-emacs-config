@@ -1,0 +1,1 @@
+c:/Users/kens7/.emacs.d/straight/repos/evil-collection/modes/smerge-mode/evil-collection-smerge-mode.el

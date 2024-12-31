@@ -1,0 +1,9 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("c:/Users/kens7/.emacs.d/README.md" . 73)
+ ("c:/Users/kens7/.emacs.d/init.el" . 4569)
+ ("c:/Users/kens7/.emacs.d/"
+  (dired-filename . "c:/Users/kens7/.emacs.d/init.el"))
+ ("c:/Users/kens7/.emacs.d/straight/repos/"
+  (dired-filename . "c:/Users/kens7/.emacs.d/straight/repos/.."))
+ ("c:/Users/kens7/.emacs.d/straight/"
+  (dired-filename . "c:/Users/kens7/.emacs.d/straight/..")))

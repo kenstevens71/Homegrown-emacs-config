@@ -1,0 +1,1 @@
+c:/Users/kens7/.emacs.d/straight/repos/all-the-icons-completion/all-the-icons-completion.el

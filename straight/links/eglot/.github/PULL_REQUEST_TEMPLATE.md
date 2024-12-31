@@ -1,0 +1,1 @@
+c:/Users/kens7/.emacs.d/straight/repos/eglot/.github/PULL_REQUEST_TEMPLATE.md

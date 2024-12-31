@@ -1,0 +1,2 @@
+;; Generated package description from external-completion.el  -*- no-byte-compile: t -*-
+(define-package "external-completion" "0.1.0.20240725.13518" "Let external tools control completion style" 'nil :commit "c3c27a919c2b4552da672391606ab336a5783d35" :url "https://elpa.gnu.org/packages/external-completion.html" :authors '(("Stefan Monnier" . "monnier@iro.umontreal.ca")) :maintainer '("João Távora" . "joaotavora@gmail.com"))
