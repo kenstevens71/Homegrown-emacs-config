@@ -151,6 +151,12 @@
     (company-minimum-prefix-length 1)
     (company-idle-delay 0.1))
 
+;; use-package with package.el:
+(use-package dashboard
+  :ensure t
+  :config
+  (dashboard-setup-startup-hook))
+
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
